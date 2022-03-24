@@ -86,7 +86,7 @@
                     </div>
                     <div class="col-sm-6 col-md-7">
                       <div class="about-info">
-                        <p><span class="title-s">Name: </span> <span>Eric HABUMUGISHA</span></p>
+                        <p><span class="title-s">Name: </span> <span><a href="login.php"> Eric HABUMUGISHA</a></span></p>
                         <p><span class="title-s">Profile: </span> <span> Developer</span></p>
                         <p><span class="title-s">Qualifacation: </span> <span> A2</span></p>
                         <p><span class="title-s"> Language: </span> <span>  English , Kinyarwanda</span></p>
@@ -256,8 +256,9 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Counter Section ======= -->
-    <div class="section-counter paralax-mf bg-image" style="background-image: url(assets/img/hero-bg.jpg); ">
-      <div class="overlay-mf"></div>
+    <div class="section-counter paralax-mf bg-image" style="background-image:linear-gradient(rgba(41, 41, 80, 0.5),rgba(39, 39, 75, 0.5))
+    , url(assets/img/testimonial-2.jpg); background-size: 90px; ">
+      <!-- <div class="overlay-mf"></div> -->
       <div class="container position-relative">
         <div class="row">
           <div class="col-sm-3 col-lg-3">
@@ -630,8 +631,10 @@
     </section><!-- End Blog Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(assets/img/hero-bg.jpg)">
-      <div class="overlay-mf"></div>
+    <section id="contact" class="paralax-mf footer-paralax bg-image sect-mt4 route" 
+    style="background-image: linear-gradient(rgba(49, 49, 70, 0.5),rgba(51, 51, 75, 0.5))
+    , url(assets/img/testimonial-2.jpg); background-size: 90px; background-position: top; ">
+      <!-- <div class="overlay-mf"></div> -->
       <div class="container">
         <div class="row">
           <div class="col-sm-12">

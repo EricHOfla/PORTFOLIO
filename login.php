@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>LOGIN</title>
-	<link rel="icon" type="text/css" href="asset/img/download.PNG">
+	<link rel="icon" type="text/css" href="assets/img/icon.jpg">
   <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"> -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
@@ -14,13 +14,14 @@
   </style>
   
 </head>
-<body style="background: url('asset/img/download.PNG') top center;
-  background-size:center ;">
+<body  style=" background :linear-gradient(rgba(41, 41, 80, 0.5),rgba(39, 39, 75, 0.5))
+, url(assets/img/testimonial-2.jpg); background-size: 70px;">
 	<div class="col-lg-12">
 	<center><br><br>
 	<form class="form-control" method="POST" style="box-shadow: 0px 0px 20px rgba(1, 41, 112, 0.1);
-  background-color: #F9F5F5; width: 20rem;float: right; margin-right: 5rem; height: 35rem"><img style="border-radius: 12%" src="asset/img/download.PNG"><br><br><br>
-		<h3>LOGIN FORM</h3><br><br><br>
+  background-color: #F9F5F5; width: 25rem;float: right; margin-right: 5rem; height: 37rem">
+  <img width=250px;   style="border-radius: 12%; padding: 20px" src="assets/img/testimonial-2.jpg"><br>
+		<h3>LOGIN FORM</h3><br><br>
 
 		<input type="text" name="username" placeholder="Enter your username" required=""><br><br>
 		<input type="password" name="password" placeholder="Enter your password" required=""><br><br>
